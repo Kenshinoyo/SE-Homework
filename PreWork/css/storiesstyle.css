@@ -1,0 +1,116 @@
+body {
+		background-image:url(file:///J:/Downloads/Panels/Background+PixelPro30.png);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		-webkit- background-size: cover;
+		-moz- background-size: cover;
+		-o- background-size: cover;
+		background-size: cover;
+	}
+
+h1 {
+		color: white;
+		font-family: SF Movie Poster;
+		font-size: 62px;
+		text-shadow: black;
+	}
+
+table {
+		color: #f78604;
+		font-family: Bebas Neue;
+		font-size: x-large;
+		text-shadow: black;
+	}
+
+	.navlink {
+		color: #f78604;
+		font-family: Bebas Neue;
+		font-size: x-large;
+		text-shadow: white;
+	}
+
+	.navtable :hover{
+		background-color: #0154d1;
+		background-size: all;
+		color: white;
+		font-family: Bebas Neue;
+		font-size: x-large;
+		text-shadow: black;
+	}
+
+h2 {
+		color: #EBB402;
+		font-family: SF Movie Poster;
+		font-size: 36px;
+		text-decoration: underline;
+		text-shadow: black;
+		text-align: right;
+		margin-right: 10px;
+	}
+
+#avi2 {
+		border: thick;
+		border-color: #EBB402;
+		border-style: double;
+	}
+
+h3 {
+		color: white;
+		font-family: SF Movie Poster;
+		font-size: 24px;
+		text-shadow: black;
+		text-align: right;
+	}
+
+.yellowh {
+			color: #0091a4;
+			font-family: SF Movie Poster;
+			font-size: 36px;
+			text-decoration: underline;
+			text-shadow: black;
+			text-align: right;
+			margin-right: 10px;
+		}
+
+.social {
+		color: #EBB402;
+		text-shadow: black;
+	}
+
+pre {
+		color: white;
+		background-color: black;
+		font-family: Bebas Neue;
+		font-size: 24px;
+		text-shadow: black;
+		text-align: right;
+		line-height: 2.0;
+		margin-top: 75px;
+		margin-right: 10px;
+	}
+
+#Hi1 {
+		border: thick;
+		border-color: #EBB402;
+		border-style: double;
+	}
+
+#pre2 {
+		color: white;
+		font-family: Bebas Neue;
+		font-size: 24px;
+		text-shadow: black;
+		text-align: left;
+		line-height: 2.0;
+		margin-top: 45px;
+		margin-left: 1px;
+		height: 600px;
+			}
+
+#YT1 {
+		border: thick;
+		border-color: #EBB402;
+		border-style: double;
+		margin-top: 15px;
+		margin-right: 10px;
+	}
