@@ -1,0 +1,16 @@
+.container{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button{
+    
+    margin: auto;
+    padding: 20px;
+    width: 35vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
